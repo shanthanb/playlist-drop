@@ -1,0 +1,30 @@
+#side_drawer{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #000000;
+   color: #fff;
+   max-height: 64px;
+}
+.icon_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name_box{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: unset;
+    font-size: 30px;
+}
+.spotify_typography{
+    width: 100%;
+}
+.button_circle{
+    font-weight: 600 !important;
+}
+.playlist_items:hover{
+background: #2a2a2a;
+}
+/* up are original styles  */
